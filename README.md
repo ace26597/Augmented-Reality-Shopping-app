@@ -1,5 +1,6 @@
 # Augmented Reality-Shopping app
 Augmented Reality based Shopping application based on Unity, Vuforia SDK(C#).
+
 (Code is not uploaded due to patent reasons)
 Email me for more information.
 
